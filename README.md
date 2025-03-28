@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-> <span style="text-align: justify;">Tengo más de 6 años de experiencia en el mundo del desarrollo de software, he sido capaz de adaptarme en diferentes puestos de trabajos relacionados al desarrollo, me gustan los desafíos, nuevos retos, el trabajo colaborativo, trato de ser autodidacta porque siempre hay algo nuevo que aprender. Soy apasionado de las nuevas tecnologías y me gusta programar.</span>
+> <span style="text-align: justify;">Tengo experiencia en el mundo del desarrollo de software, he sido capaz de adaptarme en diferentes puestos de trabajos relacionados al desarrollo, me gustan los desafíos, nuevos retos, el trabajo colaborativo, trato de ser autodidacta porque siempre hay algo nuevo que aprender. Soy apasionado de las nuevas tecnologías y me gusta programar.</span>
 <h2 align="left" id="macropower-tech">Languages and Tools</h2>
 > Tools, languages, and other things that I like to work with.
 <table>
@@ -64,20 +64,6 @@
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="55" height="55" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Java
     </td>
